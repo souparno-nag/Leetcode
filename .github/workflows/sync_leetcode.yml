@@ -13,11 +13,11 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Sync LeetCode solutions
-        uses: joshcai/leetcode-sync@v2.0  # Updated version
+        uses: joshcai/leetcode-sync@v1.5  # Correct latest version
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           leetcode-csrf-token: ${{ secrets.LEETCODE_CSRF_TOKEN }}
           leetcode-session: ${{ secrets.LEETCODE_SESSION }}
           destination-folder: "solutions/"
           verbose: true
-          # Removed: commit-header (not supported in v2.0)
+          # Note: commit-header is not supported in v1.5
