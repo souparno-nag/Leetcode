@@ -1,22 +1,29 @@
-name: Sync LeetCode Solutions
+name: LeetCode Sync
 
 on:
-  workflow_dispatch:
+  workflow_dispatch:  # Manual trigger
   schedule:
-    - cron: "0 12 * * *"  # Daily at 12 PM UTC
+    - cron: "0 12 * * *"  # Daily sync at 12 PM UTC
 
 jobs:
   sync:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Explicitly grant write permission
+    
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Needed for proper commit history
 
       - name: Sync LeetCode solutions
-        uses: joshcai/leetcode-sync@v1.5
+        uses: aabhas-sinha/leetcode-sync@v1.1.1  # Pinned stable version
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           leetcode-csrf-token: ${{ secrets.LEETCODE_CSRF_TOKEN }}
           leetcode-session: ${{ secrets.LEETCODE_SESSION }}
-          destination-folder: "leetcode-solutions/"  # Changed folder name
-          filter-duplicate-secs: 86400  # Prevents duplicate syncs
+          folder-name: "leetcode"
+          skip-existing: true
+          verbose: true  # Enable detailed logging
+          commit-message: "LeetCode: {problem} ({lang})"  # Custom commit message
