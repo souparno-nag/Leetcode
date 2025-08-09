@@ -1,19 +1,23 @@
-name: Sync LeetCode
+name: Sync LeetCode Solutions
 
 on:
   workflow_dispatch:  # Manual trigger
   schedule:
-    - cron: "0 8 * * 6"  # Weekly (Saturday at 8 AM UTC)
+    - cron: "0 12 * * *"  # Daily at 12 PM UTC
 
 jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
-      - name: Sync Solutions
-        uses: joshcai/leetcode-sync@v1.5
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Sync LeetCode solutions
+        uses: joshcai/leetcode-sync@v2.0  # Updated version
         with:
-          github-token: ${{ github.token }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
           leetcode-csrf-token: ${{ secrets.LEETCODE_CSRF_TOKEN }}
           leetcode-session: ${{ secrets.LEETCODE_SESSION }}
-          destination-folder: solutions/  # Custom folder
-          commit-header: 'LeetCode: '    # Commit message prefix
+          destination-folder: "solutions/"
+          verbose: true
+          # Removed: commit-header (not supported in v2.0)
