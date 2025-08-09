@@ -11,13 +11,15 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          persist-credentials: false  # Crucial fix for permission issues
 
       - name: Sync LeetCode solutions
-        uses: joshcai/leetcode-sync@v1.5  # Correct latest version
+        uses: joshcai/leetcode-sync@v1.5
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           leetcode-csrf-token: ${{ secrets.LEETCODE_CSRF_TOKEN }}
           leetcode-session: ${{ secrets.LEETCODE_SESSION }}
           destination-folder: "solutions/"
-          verbose: true
-          # Note: commit-header is not supported in v1.5
+          # Removed: verbose (not supported)
+          # Removed: commit-header (not supported)
