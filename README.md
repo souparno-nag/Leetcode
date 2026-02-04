@@ -7,6 +7,7 @@ I submit solved leetcode probems here
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/souparno-nag/Leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/souparno-nag/Leetcode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/souparno-nag/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/souparno-nag/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/souparno-nag/Leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -16,6 +17,7 @@ I submit solved leetcode probems here
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/souparno-nag/Leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/souparno-nag/Leetcode/tree/master/0101-symmetric-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/souparno-nag/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/souparno-nag/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/souparno-nag/Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -24,6 +26,7 @@ I submit solved leetcode probems here
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/souparno-nag/Leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/souparno-nag/Leetcode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/souparno-nag/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/souparno-nag/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/souparno-nag/Leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -37,6 +40,7 @@ I submit solved leetcode probems here
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/souparno-nag/Leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/souparno-nag/Leetcode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/souparno-nag/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/souparno-nag/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/souparno-nag/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
