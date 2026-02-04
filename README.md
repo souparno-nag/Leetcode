@@ -61,4 +61,16 @@ I submit solved leetcode probems here
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/souparno-nag/Leetcode/tree/master/0070-climbing-stairs) |
+## Array
+|  |
+| ------- |
+| [0078-subsets](https://github.com/souparno-nag/Leetcode/tree/master/0078-subsets) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/souparno-nag/Leetcode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/souparno-nag/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
