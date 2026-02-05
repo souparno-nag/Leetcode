@@ -69,6 +69,7 @@ I submit solved leetcode probems here
 | [0078-subsets](https://github.com/souparno-nag/Leetcode/tree/master/0078-subsets) |
 | [0198-house-robber](https://github.com/souparno-nag/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/souparno-nag/Leetcode/tree/master/0213-house-robber-ii) |
+| [3379-transformed-array](https://github.com/souparno-nag/Leetcode/tree/master/3379-transformed-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -77,4 +78,8 @@ I submit solved leetcode probems here
 |  |
 | ------- |
 | [0078-subsets](https://github.com/souparno-nag/Leetcode/tree/master/0078-subsets) |
+## Simulation
+|  |
+| ------- |
+| [3379-transformed-array](https://github.com/souparno-nag/Leetcode/tree/master/3379-transformed-array) |
 <!---LeetCode Topics End-->
