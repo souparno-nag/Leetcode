@@ -13,6 +13,7 @@ I submit solved leetcode probems here
 | [0199-binary-tree-right-side-view](https://github.com/souparno-nag/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/souparno-nag/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/souparno-nag/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/souparno-nag/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -22,6 +23,7 @@ I submit solved leetcode probems here
 | [0199-binary-tree-right-side-view](https://github.com/souparno-nag/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/souparno-nag/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/souparno-nag/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/souparno-nag/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -32,6 +34,7 @@ I submit solved leetcode probems here
 | [0199-binary-tree-right-side-view](https://github.com/souparno-nag/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/souparno-nag/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/souparno-nag/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/souparno-nag/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -97,4 +100,16 @@ I submit solved leetcode probems here
 |  |
 | ------- |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/souparno-nag/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/souparno-nag/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+## Greedy
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/souparno-nag/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/souparno-nag/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
