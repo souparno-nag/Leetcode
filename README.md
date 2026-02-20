@@ -38,6 +38,7 @@ I submit solved leetcode probems here
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/souparno-nag/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/souparno-nag/Leetcode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/souparno-nag/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/souparno-nag/Leetcode/tree/master/0198-house-robber) |
@@ -64,6 +65,7 @@ I submit solved leetcode probems here
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/souparno-nag/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/souparno-nag/Leetcode/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -123,4 +125,8 @@ I submit solved leetcode probems here
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/souparno-nag/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/souparno-nag/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
