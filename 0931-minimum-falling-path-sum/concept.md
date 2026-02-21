@@ -51,5 +51,63 @@ f(i, j, matrix, dp) {
 }
 ```
 
-Time Complexity = O(Mx(N^2)) {exponential}
+Time Complexity = O(Mx(N^2))
 Space Complexity = O(MxN) {dp} + O(M) {recursive stack}
+
+## Bottom Up (Tabulation)
+
+Define the base case (row 0) and tabulate from row 1 to M-1
+
+### Pseudocode
+
+```markdown
+f(matrix) {
+  m = no of rows, n = no of cols
+  Initialize dp[m][n]
+  // base case
+  for (j = 0 to n-1) dp[0][j] = matrix[0][j]
+  for (i = 1 to m-1) {
+    for (j = 0 to n-1) {
+      straightUp = dp[i-1][j]
+      leftDiagonal = dp[i-1][j-1]
+      rightDiagonal = dp[i-1][j+1]
+      dp[i][j] = min(straightUp, leftDiagonal, rightDiagonal) + matrix[i][j]
+    }
+  }
+  for (j = 0 to n-1) minPath = min(minPath, matrix[m-1][j])
+  return minPath
+}
+```
+
+Time Complexity = O(MxN)
+Space Complexity = O(MxN) {dp}
+
+## Space optimized
+
+Use N sized array inplace of MxN
+
+### Pseudocode
+
+```markdown
+f(matrix) {
+  m = no of rows, n = no of cols
+  Initialize dp[n]
+  // base case
+  for (j = 0 to n-1) dp[j] = matrix[0][j]
+  for (i = 1 to m-1) {
+    Initialize temp[n]
+    for (j = 0 to n-1) {
+      straightUp = dp[j]
+      leftDiagonal = dp[j-1]
+      rightDiagonal = dp[j+1]
+      temp[j] = min(straightUp, leftDiagonal, rightDiagonal) + matrix[i][j]
+    }
+    dp = temp
+  }
+  for (j = 0 to n-1) minPath = min(minPath, matrix[m-1][j])
+  return minPath
+}
+```
+
+Time Complexity = O(MxN)
+Space Complexity = O(N) {dp}
