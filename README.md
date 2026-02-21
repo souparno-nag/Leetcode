@@ -46,6 +46,7 @@ I submit solved leetcode probems here
 | [0124-binary-tree-maximum-path-sum](https://github.com/souparno-nag/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/souparno-nag/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/souparno-nag/Leetcode/tree/master/0213-house-robber-ii) |
+| [0931-minimum-falling-path-sum](https://github.com/souparno-nag/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/souparno-nag/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Breadth-First Search
 |  |
@@ -83,6 +84,7 @@ I submit solved leetcode probems here
 | [0120-triangle](https://github.com/souparno-nag/Leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/souparno-nag/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/souparno-nag/Leetcode/tree/master/0213-house-robber-ii) |
+| [0931-minimum-falling-path-sum](https://github.com/souparno-nag/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [3379-transformed-array](https://github.com/souparno-nag/Leetcode/tree/master/3379-transformed-array) |
 | [3634-minimum-removals-to-balance-array](https://github.com/souparno-nag/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/souparno-nag/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
@@ -140,4 +142,5 @@ I submit solved leetcode probems here
 | ------- |
 | [0063-unique-paths-ii](https://github.com/souparno-nag/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/souparno-nag/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/souparno-nag/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 <!---LeetCode Topics End-->
