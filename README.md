@@ -38,6 +38,7 @@ I submit solved leetcode probems here
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/souparno-nag/Leetcode/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/souparno-nag/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/souparno-nag/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/souparno-nag/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -95,6 +96,7 @@ I submit solved leetcode probems here
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/souparno-nag/Leetcode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/souparno-nag/Leetcode/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
@@ -111,6 +113,7 @@ I submit solved leetcode probems here
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/souparno-nag/Leetcode/tree/master/0022-generate-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/souparno-nag/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Stack
 |  |
