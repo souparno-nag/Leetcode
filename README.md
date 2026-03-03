@@ -87,6 +87,7 @@ I submit solved leetcode probems here
 | [0039-combination-sum](https://github.com/souparno-nag/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/souparno-nag/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/souparno-nag/Leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/souparno-nag/Leetcode/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/souparno-nag/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/souparno-nag/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/souparno-nag/Leetcode/tree/master/0078-subsets) |
@@ -109,6 +110,7 @@ I submit solved leetcode probems here
 | [0039-combination-sum](https://github.com/souparno-nag/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/souparno-nag/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/souparno-nag/Leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/souparno-nag/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/souparno-nag/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/souparno-nag/Leetcode/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
