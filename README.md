@@ -137,6 +137,7 @@ I submit solved leetcode probems here
 | [0032-longest-valid-parentheses](https://github.com/souparno-nag/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/souparno-nag/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/souparno-nag/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/souparno-nag/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/souparno-nag/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Divide and Conquer
 |  |
@@ -174,8 +175,10 @@ I submit solved leetcode probems here
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/souparno-nag/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/souparno-nag/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/souparno-nag/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/souparno-nag/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
