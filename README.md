@@ -89,6 +89,7 @@ I submit solved leetcode probems here
 | [0040-combination-sum-ii](https://github.com/souparno-nag/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/souparno-nag/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/souparno-nag/Leetcode/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/souparno-nag/Leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/souparno-nag/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/souparno-nag/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/souparno-nag/Leetcode/tree/master/0078-subsets) |
@@ -123,6 +124,7 @@ I submit solved leetcode probems here
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/souparno-nag/Leetcode/tree/master/0054-spiral-matrix) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/souparno-nag/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3379-transformed-array](https://github.com/souparno-nag/Leetcode/tree/master/3379-transformed-array) |
 ## Sliding Window
@@ -176,6 +178,7 @@ I submit solved leetcode probems here
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/souparno-nag/Leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/souparno-nag/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/souparno-nag/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/souparno-nag/Leetcode/tree/master/0931-minimum-falling-path-sum) |
