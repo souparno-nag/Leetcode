@@ -75,6 +75,7 @@ I submit solved leetcode probems here
 | ------- |
 | [0062-unique-paths](https://github.com/souparno-nag/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/souparno-nag/Leetcode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/souparno-nag/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Memoization
 |  |
 | ------- |
@@ -90,6 +91,7 @@ I submit solved leetcode probems here
 | [0078-subsets](https://github.com/souparno-nag/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/souparno-nag/Leetcode/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/souparno-nag/Leetcode/tree/master/0120-triangle) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/souparno-nag/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/souparno-nag/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/souparno-nag/Leetcode/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/souparno-nag/Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -130,6 +132,7 @@ I submit solved leetcode probems here
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/souparno-nag/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/souparno-nag/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Divide and Conquer
 |  |
