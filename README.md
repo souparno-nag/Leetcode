@@ -103,6 +103,7 @@ I submit solved leetcode probems here
 | [0150-evaluate-reverse-polish-notation](https://github.com/souparno-nag/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/souparno-nag/Leetcode/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/souparno-nag/Leetcode/tree/master/0258-add-digits) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/souparno-nag/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/souparno-nag/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/souparno-nag/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/souparno-nag/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
