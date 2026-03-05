@@ -97,6 +97,7 @@ I submit solved leetcode probems here
 | [0150-evaluate-reverse-polish-notation](https://github.com/souparno-nag/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/souparno-nag/Leetcode/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/souparno-nag/Leetcode/tree/master/0258-add-digits) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/souparno-nag/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Memoization
 |  |
 | ------- |
