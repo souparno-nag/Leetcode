@@ -101,6 +101,7 @@ I submit solved leetcode probems here
 | [0150-evaluate-reverse-polish-notation](https://github.com/souparno-nag/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/souparno-nag/Leetcode/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/souparno-nag/Leetcode/tree/master/0258-add-digits) |
+| [1486-xor-operation-in-an-array](https://github.com/souparno-nag/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/souparno-nag/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/souparno-nag/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/souparno-nag/Leetcode/tree/master/2652-sum-multiples) |
@@ -154,6 +155,7 @@ I submit solved leetcode probems here
 | ------- |
 | [0078-subsets](https://github.com/souparno-nag/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/souparno-nag/Leetcode/tree/master/0090-subsets-ii) |
+| [1486-xor-operation-in-an-array](https://github.com/souparno-nag/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Simulation
 |  |
 | ------- |
