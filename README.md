@@ -92,6 +92,7 @@ I submit solved leetcode probems here
 | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/souparno-nag/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2974-minimum-number-game](https://github.com/souparno-nag/Leetcode/tree/master/2974-minimum-number-game) |
+| [3024-type-of-triangle](https://github.com/souparno-nag/Leetcode/tree/master/3024-type-of-triangle) |
 | [3634-minimum-removals-to-balance-array](https://github.com/souparno-nag/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Math
 |  |
@@ -106,6 +107,7 @@ I submit solved leetcode probems here
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/souparno-nag/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/souparno-nag/Leetcode/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/souparno-nag/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3024-type-of-triangle](https://github.com/souparno-nag/Leetcode/tree/master/3024-type-of-triangle) |
 ## Memoization
 |  |
 | ------- |
@@ -137,6 +139,7 @@ I submit solved leetcode probems here
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/souparno-nag/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/souparno-nag/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/souparno-nag/Leetcode/tree/master/2974-minimum-number-game) |
+| [3024-type-of-triangle](https://github.com/souparno-nag/Leetcode/tree/master/3024-type-of-triangle) |
 | [3379-transformed-array](https://github.com/souparno-nag/Leetcode/tree/master/3379-transformed-array) |
 | [3634-minimum-removals-to-balance-array](https://github.com/souparno-nag/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/souparno-nag/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
