@@ -141,6 +141,7 @@ I submit solved leetcode probems here
 | [0224-basic-calculator](https://github.com/souparno-nag/Leetcode/tree/master/0224-basic-calculator) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/souparno-nag/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/souparno-nag/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/souparno-nag/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 ## Stack
 |  |
 | ------- |
