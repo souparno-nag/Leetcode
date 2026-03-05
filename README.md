@@ -138,6 +138,7 @@ I submit solved leetcode probems here
 | [0977-squares-of-a-sorted-array](https://github.com/souparno-nag/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1095-find-in-mountain-array](https://github.com/souparno-nag/Leetcode/tree/master/1095-find-in-mountain-array) |
 | [1463-cherry-pickup-ii](https://github.com/souparno-nag/Leetcode/tree/master/1463-cherry-pickup-ii) |
+| [1550-three-consecutive-odds](https://github.com/souparno-nag/Leetcode/tree/master/1550-three-consecutive-odds) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/souparno-nag/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/souparno-nag/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/souparno-nag/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
