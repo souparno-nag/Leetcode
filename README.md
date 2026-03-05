@@ -6,6 +6,7 @@ I submit solved leetcode probems here
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/souparno-nag/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/souparno-nag/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/souparno-nag/Leetcode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/souparno-nag/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -20,6 +21,7 @@ I submit solved leetcode probems here
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/souparno-nag/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/souparno-nag/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/souparno-nag/Leetcode/tree/master/0101-symmetric-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/souparno-nag/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -33,6 +35,7 @@ I submit solved leetcode probems here
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/souparno-nag/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/souparno-nag/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/souparno-nag/Leetcode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/souparno-nag/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -174,6 +177,7 @@ I submit solved leetcode probems here
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/souparno-nag/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/souparno-nag/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1095-find-in-mountain-array](https://github.com/souparno-nag/Leetcode/tree/master/1095-find-in-mountain-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/souparno-nag/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
