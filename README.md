@@ -184,6 +184,7 @@ I submit solved leetcode probems here
 | [1832-check-if-the-sentence-is-pangram](https://github.com/souparno-nag/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/souparno-nag/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/souparno-nag/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3019-number-of-changing-keys](https://github.com/souparno-nag/Leetcode/tree/master/3019-number-of-changing-keys) |
 ## Stack
 |  |
 | ------- |
