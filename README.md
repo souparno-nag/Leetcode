@@ -90,6 +90,7 @@ I submit solved leetcode probems here
 | [0070-climbing-stairs](https://github.com/souparno-nag/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/souparno-nag/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/souparno-nag/Leetcode/tree/master/0224-basic-calculator) |
+| [0258-add-digits](https://github.com/souparno-nag/Leetcode/tree/master/0258-add-digits) |
 ## Memoization
 |  |
 | ------- |
@@ -138,6 +139,7 @@ I submit solved leetcode probems here
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/souparno-nag/Leetcode/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/souparno-nag/Leetcode/tree/master/0258-add-digits) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/souparno-nag/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3379-transformed-array](https://github.com/souparno-nag/Leetcode/tree/master/3379-transformed-array) |
 ## Sliding Window
@@ -231,4 +233,8 @@ I submit solved leetcode probems here
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/souparno-nag/Leetcode/tree/master/0234-palindrome-linked-list) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/souparno-nag/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
