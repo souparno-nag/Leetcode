@@ -86,6 +86,7 @@ I submit solved leetcode probems here
 |  |
 | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/souparno-nag/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2974-minimum-number-game](https://github.com/souparno-nag/Leetcode/tree/master/2974-minimum-number-game) |
 | [3634-minimum-removals-to-balance-array](https://github.com/souparno-nag/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Math
 |  |
@@ -120,6 +121,7 @@ I submit solved leetcode probems here
 | [1095-find-in-mountain-array](https://github.com/souparno-nag/Leetcode/tree/master/1095-find-in-mountain-array) |
 | [1463-cherry-pickup-ii](https://github.com/souparno-nag/Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/souparno-nag/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [2974-minimum-number-game](https://github.com/souparno-nag/Leetcode/tree/master/2974-minimum-number-game) |
 | [3379-transformed-array](https://github.com/souparno-nag/Leetcode/tree/master/3379-transformed-array) |
 | [3634-minimum-removals-to-balance-array](https://github.com/souparno-nag/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/souparno-nag/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
@@ -145,6 +147,7 @@ I submit solved leetcode probems here
 | [0054-spiral-matrix](https://github.com/souparno-nag/Leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/souparno-nag/Leetcode/tree/master/0258-add-digits) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/souparno-nag/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [2974-minimum-number-game](https://github.com/souparno-nag/Leetcode/tree/master/2974-minimum-number-game) |
 | [3379-transformed-array](https://github.com/souparno-nag/Leetcode/tree/master/3379-transformed-array) |
 ## Sliding Window
 |  |
@@ -248,4 +251,8 @@ I submit solved leetcode probems here
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/souparno-nag/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/souparno-nag/Leetcode/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
