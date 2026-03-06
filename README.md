@@ -290,6 +290,7 @@ I submit solved leetcode probems here
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/souparno-nag/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/souparno-nag/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/souparno-nag/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/souparno-nag/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
@@ -303,6 +304,7 @@ I submit solved leetcode probems here
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/souparno-nag/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/souparno-nag/Leetcode/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/souparno-nag/Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/souparno-nag/Leetcode/tree/master/0234-palindrome-linked-list) |
