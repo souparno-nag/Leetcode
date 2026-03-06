@@ -286,6 +286,7 @@ I submit solved leetcode probems here
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/souparno-nag/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/souparno-nag/Leetcode/tree/master/0061-rotate-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/souparno-nag/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/souparno-nag/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/souparno-nag/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -293,6 +294,7 @@ I submit solved leetcode probems here
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/souparno-nag/Leetcode/tree/master/0061-rotate-list) |
 | [0234-palindrome-linked-list](https://github.com/souparno-nag/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/souparno-nag/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/souparno-nag/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
