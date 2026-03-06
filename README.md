@@ -220,6 +220,7 @@ I submit solved leetcode probems here
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/souparno-nag/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/souparno-nag/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/souparno-nag/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/souparno-nag/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
@@ -288,6 +289,7 @@ I submit solved leetcode probems here
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/souparno-nag/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/souparno-nag/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/souparno-nag/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/souparno-nag/Leetcode/tree/master/0061-rotate-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/souparno-nag/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -313,5 +315,10 @@ I submit solved leetcode probems here
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/souparno-nag/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [2974-minimum-number-game](https://github.com/souparno-nag/Leetcode/tree/master/2974-minimum-number-game) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/souparno-nag/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
