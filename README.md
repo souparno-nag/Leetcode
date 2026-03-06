@@ -21,6 +21,7 @@ I submit solved leetcode probems here
 | [0543-diameter-of-binary-tree](https://github.com/souparno-nag/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/souparno-nag/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/souparno-nag/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/souparno-nag/Leetcode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -36,6 +37,7 @@ I submit solved leetcode probems here
 | [0543-diameter-of-binary-tree](https://github.com/souparno-nag/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/souparno-nag/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/souparno-nag/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/souparno-nag/Leetcode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 ## Binary Tree
 |  |
 | ------- |
@@ -80,6 +82,7 @@ I submit solved leetcode probems here
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/souparno-nag/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/souparno-nag/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/souparno-nag/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/souparno-nag/Leetcode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 ## Hash Table
 |  |
 | ------- |
@@ -330,4 +333,8 @@ I submit solved leetcode probems here
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/souparno-nag/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Graph Theory
+|  |
+| ------- |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/souparno-nag/Leetcode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 <!---LeetCode Topics End-->
