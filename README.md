@@ -72,6 +72,7 @@ I submit solved leetcode probems here
 | [0213-house-robber-ii](https://github.com/souparno-nag/Leetcode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/souparno-nag/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/souparno-nag/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/souparno-nag/Leetcode/tree/master/0494-target-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/souparno-nag/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1463-cherry-pickup-ii](https://github.com/souparno-nag/Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/souparno-nag/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -142,6 +143,7 @@ I submit solved leetcode probems here
 | [0213-house-robber-ii](https://github.com/souparno-nag/Leetcode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/souparno-nag/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/souparno-nag/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/souparno-nag/Leetcode/tree/master/0494-target-sum) |
 | [0682-baseball-game](https://github.com/souparno-nag/Leetcode/tree/master/0682-baseball-game) |
 | [0931-minimum-falling-path-sum](https://github.com/souparno-nag/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/souparno-nag/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -173,6 +175,7 @@ I submit solved leetcode probems here
 | [0051-n-queens](https://github.com/souparno-nag/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/souparno-nag/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/souparno-nag/Leetcode/tree/master/0090-subsets-ii) |
+| [0494-target-sum](https://github.com/souparno-nag/Leetcode/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
