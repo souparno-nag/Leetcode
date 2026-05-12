@@ -81,3 +81,35 @@ int countCoins(vector<int>& coins, int amount) {
     }
 };
 ```
+
+## Space Optimized
+
+```cpp
+class Solution {
+public:
+int countCoins(vector<int>& coins, int amount) {
+    int n = coins.size();
+    vector<int> dp(amount+1, 0), temp(amount+1, 0);
+    // define base case
+    for (int target = 0; target <= amount; target++) {
+        if (target%coins[0] == 0) dp[target] = target/coins[0];
+        else dp[target] = INT_MAX;
+    }
+    // build dp table 
+    for (int ind = 1; ind < n; ind++) {
+        for (int target = 0; target <= amount; target++) {
+            int notPick = dp[target];
+            int pick = 1e9;
+            if (coins[ind] <= target) pick = 1 + temp[target-coins[ind]];
+            temp[target] = min(pick, notPick);
+        }
+        dp = temp;
+    }
+    return dp[amount];
+}
+    int coinChange(vector<int>& coins, int amount) {
+        int result = countCoins(coins, amount);
+        return result >= 1e9 ? -1 : result;
+    }
+};
+```
