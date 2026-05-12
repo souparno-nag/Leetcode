@@ -128,6 +128,7 @@ I submit solved leetcode probems here
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/souparno-nag/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/souparno-nag/Leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/souparno-nag/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/souparno-nag/Leetcode/tree/master/0040-combination-sum-ii) |
@@ -248,6 +249,7 @@ I submit solved leetcode probems here
 ## Binary Search Tree
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/souparno-nag/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/souparno-nag/Leetcode/tree/master/0035-search-insert-position) |
 | [0098-validate-binary-search-tree](https://github.com/souparno-nag/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/souparno-nag/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
