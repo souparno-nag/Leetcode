@@ -1,19 +1,43 @@
 class Solution {
 public:
-    int lcs(string s1, string s2) {
-        int n1 = s1.size(), n2 = s2.size();
-        vector<vector<int>> dp(n1+1, vector<int>(n2+1, 0));
-        for (int i = 1; i <= n1; i++) {
-            for (int j = 1; j <= n2; j++) {
-                if (s1[i-1] == s2[j-1]) dp[i][j] = 1 + dp[i-1][j-1];
-                else dp[i][j] = max(dp[i-1][j], dp[i][j-1]);
-            }
-        }
-        return dp[n1][n2];
+    int lps(string s, int low, int high, vector<vector<int>>& dp) {
+        if (dp[low][high] != -1) return dp[low][high];
+        if (low > high) return dp[low][high] = 0;
+        if (low == high) return dp[low][high] =  1;
+        if (s[low] == s[high]) return dp[low][high] =  2 + lps(s, low+1, high-1, dp);
+        return dp[low][high] = max(lps(s, low+1, high, dp), lps(s, low, high-1, dp));
     }
     int longestPalindromeSubseq(string s) {
-        string rev_s = "";
-        for (int i = s.length()-1; i >= 0; i--) rev_s += s[i];
-        return lcs(s, rev_s);
+        int n = s.length();
+        vector<vector<int>> dp(n, vector<int>(n, 0));
+        for (int low = n-1; low >= 0; low--) {
+            for (int high = low; high < n; high++) {
+                if (low == high) {
+                    dp[low][high] = 1;
+                    continue;
+                }
+                if (s[low] == s[high]) dp[low][high] = 2 + dp[low+1][high-1];
+                else {
+                    dp[low][high] = max(dp[low+1][high], dp[low][high-1]);
+                }
+            }
+        }
+        return dp[0][n-1];
     }
 };
+
+// class Solution {
+// public:
+//     int lps(string s, int low, int high, vector<vector<int>>& dp) {
+//         if (dp[low][high] != -1) return dp[low][high];
+//         if (low > high) return dp[low][high] = 0;
+//         if (low == high) return dp[low][high] =  1;
+//         if (s[low] == s[high]) return dp[low][high] =  2 + lps(s, low+1, high-1, dp);
+//         return dp[low][high] = max(lps(s, low+1, high, dp), lps(s, low, high-1, dp));
+//     }
+//     int longestPalindromeSubseq(string s) {
+//         int n = s.length();
+//         vector<vector<int>> dp(n, vector<int>(n, -1));
+//         return lps(s, 0, n-1, dp);
+//     }
+// };
