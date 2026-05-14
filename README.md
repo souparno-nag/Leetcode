@@ -75,6 +75,7 @@ I submit solved leetcode probems here
 | [0494-target-sum](https://github.com/souparno-nag/Leetcode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/souparno-nag/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/souparno-nag/Leetcode/tree/master/0518-coin-change-ii) |
+| [0583-delete-operation-for-two-strings](https://github.com/souparno-nag/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0931-minimum-falling-path-sum](https://github.com/souparno-nag/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/souparno-nag/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/souparno-nag/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -215,6 +216,7 @@ I submit solved leetcode probems here
 | [0224-basic-calculator](https://github.com/souparno-nag/Leetcode/tree/master/0224-basic-calculator) |
 | [0387-first-unique-character-in-a-string](https://github.com/souparno-nag/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/souparno-nag/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/souparno-nag/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0657-robot-return-to-origin](https://github.com/souparno-nag/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/souparno-nag/Leetcode/tree/master/0709-to-lower-case) |
 | [1143-longest-common-subsequence](https://github.com/souparno-nag/Leetcode/tree/master/1143-longest-common-subsequence) |
