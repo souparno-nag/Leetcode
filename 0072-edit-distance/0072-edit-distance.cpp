@@ -13,6 +13,7 @@ public:
         int insertion = 1 + findMinDistance(w1, w2, i, j-1, dp);
         int deletion = 1 + findMinDistance(w1, w2, i-1, j, dp);
         int replacement = 1 + findMinDistance(w1, w2, i-1, j-1, dp);
+        // return minimum
         return dp[i][j] = min(replacement, min(insertion, deletion));
     }
     int minDistance(string word1, string word2) {
