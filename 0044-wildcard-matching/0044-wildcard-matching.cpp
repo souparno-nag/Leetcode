@@ -6,8 +6,11 @@ public:
         // define base case
         dp[0][0] = true;
         for (int j = 1; j <= m; j++) dp[0][j] = false;
-        int k = 0;
-        while (p[k++] == '*') dp[k][0] = true;
+        // int k = 0;
+        // while (p[k++] == '*') dp[k][0] = true;
+        for (int i = 1; i <= n; i++) {
+            if (p[i-1] == '*') dp[i][0] = dp[i-1][0];
+        }
         // build the table
         for (int i = 1; i <= n; i++) {
             for (int j = 1; j <= m; j++) {
