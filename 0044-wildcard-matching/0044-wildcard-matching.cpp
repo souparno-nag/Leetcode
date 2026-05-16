@@ -2,26 +2,24 @@ class Solution {
 public:
     bool isMatch(string s, string p) {
         int n = p.length(), m = s.length();
-        vector<vector<bool>> dp(n+1, vector<bool>(m+1, false));
+        vector<bool> prev(m+1, false), curr(m+1, false);
         // define base case
-        dp[0][0] = true;
-        for (int j = 1; j <= m; j++) dp[0][j] = false;
-        // int k = 0;
-        // while (p[k++] == '*') dp[k][0] = true;
-        for (int i = 1; i <= n; i++) {
-            if (p[i-1] == '*') dp[i][0] = dp[i-1][0];
-        }
+        prev[0] = true;
+        for (int j = 1; j <= m; j++) prev[j] = false;
         // build the table
         for (int i = 1; i <= n; i++) {
+            curr[0] = false;
+            if (p[i-1] == '*') curr[0] = prev[0];
             for (int j = 1; j <= m; j++) {
-                if (p[i-1] == s[j-1] || p[i-1] == '?') dp[i][j] = dp[i-1][j-1];
+                if (p[i-1] == s[j-1] || p[i-1] == '?') curr[j] = prev[j-1];
                 else if (p[i-1] == '*') {
-                    dp[i][j] = dp[i-1][j] + dp[i][j-1];
+                    curr[j] = prev[j] || curr[j-1];
                 } else {
-                    dp[i][j] = false;
+                    curr[j] = false;
                 }
             }
+            prev = curr;
         }
-        return dp[n][m];
+        return prev[m];
     }
 };
