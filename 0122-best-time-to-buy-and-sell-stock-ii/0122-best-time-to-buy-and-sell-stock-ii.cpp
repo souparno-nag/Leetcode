@@ -1,28 +1,28 @@
 class Solution {
 public:
-    int findMaxProfit(vector<int>& prices, int ind, int buy, vector<vector<int>>& dp) {
-        // base case
-        if (ind == prices.size()) return 0;
-        // check dp table
-        if (dp[ind][buy] != -1) return dp[ind][buy];
-        int profit;
-        // define all possibilities
-        if (buy) {
-            profit = max(
-                -prices[ind] + findMaxProfit(prices, ind+1, 0, dp), // buy
-                findMaxProfit(prices, ind+1, 1, dp) // don't buy
-            );
-        } else {
-            profit = max(
-                prices[ind] + findMaxProfit(prices, ind+1, 1, dp), // sell
-                findMaxProfit(prices, ind+1, 0, dp) // don't sell
-            );
-        }
-        return dp[ind][buy] = profit;
-    }
     int maxProfit(vector<int>& prices) {
         int n = prices.size();
-        vector<vector<int>> dp(n, vector<int>(2, -1));
-        return findMaxProfit(prices, 0, 1, dp);
+        vector<vector<int>> dp(n+1, vector<int>(2, -1));
+        // base case
+        dp[n][0] = dp[n][1] = 0;
+        // build the dp table
+        for (int ind = n-1; ind >= 0; ind--) {
+            for (int buy = 0; buy < 2; buy++) {
+                int profit;
+                if (buy) {
+                    profit = max(
+                        -prices[ind] + dp[ind+1][0], // buy
+                        dp[ind+1][1] // don't buy
+                    ); 
+                } else {
+                    profit = max(
+                        prices[ind] + dp[ind+1][1], // sell
+                        dp[ind+1][0] // don't sell
+                    );
+                }
+                dp[ind][buy] = profit;
+            }
+        }
+        return dp[0][1];
     }
 };
