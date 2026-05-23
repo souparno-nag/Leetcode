@@ -101,6 +101,7 @@ I submit solved leetcode probems here
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/souparno-nag/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/souparno-nag/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/souparno-nag/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/souparno-nag/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/souparno-nag/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3719-longest-balanced-subarray-i](https://github.com/souparno-nag/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
@@ -158,6 +159,7 @@ I submit solved leetcode probems here
 | [0322-coin-change](https://github.com/souparno-nag/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/souparno-nag/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/souparno-nag/Leetcode/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/souparno-nag/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/souparno-nag/Leetcode/tree/master/0518-coin-change-ii) |
 | [0682-baseball-game](https://github.com/souparno-nag/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/souparno-nag/Leetcode/tree/master/0704-binary-search) |
@@ -252,6 +254,7 @@ I submit solved leetcode probems here
 | [0225-implement-stack-using-queues](https://github.com/souparno-nag/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/souparno-nag/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/souparno-nag/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/souparno-nag/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/souparno-nag/Leetcode/tree/master/0682-baseball-game) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/souparno-nag/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Divide and Conquer
@@ -376,4 +379,8 @@ I submit solved leetcode probems here
 |  |
 | ------- |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/souparno-nag/Leetcode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/souparno-nag/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
