@@ -160,6 +160,7 @@ I submit solved leetcode probems here
 | [0416-partition-equal-subset-sum](https://github.com/souparno-nag/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/souparno-nag/Leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/souparno-nag/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/souparno-nag/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/souparno-nag/Leetcode/tree/master/0518-coin-change-ii) |
 | [0682-baseball-game](https://github.com/souparno-nag/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/souparno-nag/Leetcode/tree/master/0704-binary-search) |
@@ -255,6 +256,7 @@ I submit solved leetcode probems here
 | [0232-implement-queue-using-stacks](https://github.com/souparno-nag/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/souparno-nag/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/souparno-nag/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/souparno-nag/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/souparno-nag/Leetcode/tree/master/0682-baseball-game) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/souparno-nag/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Divide and Conquer
@@ -383,4 +385,5 @@ I submit solved leetcode probems here
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/souparno-nag/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/souparno-nag/Leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
