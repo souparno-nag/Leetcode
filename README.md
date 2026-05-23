@@ -62,6 +62,7 @@ I submit solved leetcode probems here
 | [0005-longest-palindromic-substring](https://github.com/souparno-nag/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/souparno-nag/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/souparno-nag/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/souparno-nag/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/souparno-nag/Leetcode/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/souparno-nag/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/souparno-nag/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -142,6 +143,7 @@ I submit solved leetcode probems here
 | [0035-search-insert-position](https://github.com/souparno-nag/Leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/souparno-nag/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/souparno-nag/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/souparno-nag/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/souparno-nag/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/souparno-nag/Leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/souparno-nag/Leetcode/tree/master/0054-spiral-matrix) |
@@ -247,6 +249,7 @@ I submit solved leetcode probems here
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/souparno-nag/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/souparno-nag/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/souparno-nag/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/souparno-nag/Leetcode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/souparno-nag/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -355,6 +358,7 @@ I submit solved leetcode probems here
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/souparno-nag/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/souparno-nag/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/souparno-nag/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/souparno-nag/Leetcode/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/souparno-nag/Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/souparno-nag/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -384,6 +388,7 @@ I submit solved leetcode probems here
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/souparno-nag/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/souparno-nag/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/souparno-nag/Leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
