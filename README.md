@@ -37,6 +37,7 @@ I submit solved leetcode probems here
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/souparno-nag/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/souparno-nag/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/souparno-nag/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/souparno-nag/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1382-balance-a-binary-search-tree](https://github.com/souparno-nag/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/souparno-nag/Leetcode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 ## Binary Tree
@@ -99,6 +100,7 @@ I submit solved leetcode probems here
 | [0199-binary-tree-right-side-view](https://github.com/souparno-nag/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/souparno-nag/Leetcode/tree/master/0322-coin-change) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/souparno-nag/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/souparno-nag/Leetcode/tree/master/1020-number-of-enclaves) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/souparno-nag/Leetcode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 ## Hash Table
 |  |
@@ -174,6 +176,7 @@ I submit solved leetcode probems here
 | [0907-sum-of-subarray-minimums](https://github.com/souparno-nag/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/souparno-nag/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/souparno-nag/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1020-number-of-enclaves](https://github.com/souparno-nag/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1095-find-in-mountain-array](https://github.com/souparno-nag/Leetcode/tree/master/1095-find-in-mountain-array) |
 | [1463-cherry-pickup-ii](https://github.com/souparno-nag/Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1550-three-consecutive-odds](https://github.com/souparno-nag/Leetcode/tree/master/1550-three-consecutive-odds) |
@@ -316,6 +319,7 @@ I submit solved leetcode probems here
 | [0064-minimum-path-sum](https://github.com/souparno-nag/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/souparno-nag/Leetcode/tree/master/0130-surrounded-regions) |
 | [0931-minimum-falling-path-sum](https://github.com/souparno-nag/Leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [1020-number-of-enclaves](https://github.com/souparno-nag/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1463-cherry-pickup-ii](https://github.com/souparno-nag/Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/souparno-nag/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/souparno-nag/Leetcode/tree/master/1672-richest-customer-wealth) |
@@ -403,4 +407,5 @@ I submit solved leetcode probems here
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/souparno-nag/Leetcode/tree/master/0130-surrounded-regions) |
+| [1020-number-of-enclaves](https://github.com/souparno-nag/Leetcode/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
