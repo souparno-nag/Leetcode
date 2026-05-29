@@ -36,6 +36,7 @@ I submit solved leetcode probems here
 | [0230-kth-smallest-element-in-a-bst](https://github.com/souparno-nag/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/souparno-nag/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/souparno-nag/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/souparno-nag/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/souparno-nag/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/souparno-nag/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1382-balance-a-binary-search-tree](https://github.com/souparno-nag/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
@@ -99,6 +100,7 @@ I submit solved leetcode probems here
 | [0130-surrounded-regions](https://github.com/souparno-nag/Leetcode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/souparno-nag/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/souparno-nag/Leetcode/tree/master/0322-coin-change) |
+| [0785-is-graph-bipartite](https://github.com/souparno-nag/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/souparno-nag/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/souparno-nag/Leetcode/tree/master/1020-number-of-enclaves) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/souparno-nag/Leetcode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
@@ -395,6 +397,7 @@ I submit solved leetcode probems here
 ## Graph Theory
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/souparno-nag/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/souparno-nag/Leetcode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 ## Monotonic Stack
 |  |
@@ -407,5 +410,6 @@ I submit solved leetcode probems here
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/souparno-nag/Leetcode/tree/master/0130-surrounded-regions) |
+| [0785-is-graph-bipartite](https://github.com/souparno-nag/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/souparno-nag/Leetcode/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
