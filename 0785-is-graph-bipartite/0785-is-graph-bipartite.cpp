@@ -1,25 +1,12 @@
 class Solution {
 public:
-    bool checkBipartite(vector<vector<int>>& graph, vector<int>& colours, int start) {
-        queue<int> q;
-
-        colours[start] = 0;
-        q.push(start);
-
-        while (!q.empty()) {
-            int node = q.front();
-            q.pop();
-
-            for (int n : graph[node]) {
-                if (colours[n] == -1) {
-                    colours[n] = !colours[node];
-                    q.push(n);
-                } else if (colours[n] == colours[node]) {
-                    return false;
-                }
-            }
+    bool checkBipartiteDFS(vector<vector<int>>& graph, vector<int>& colours, int node, int colour) {
+        colours[node] = colour;
+        for (int neighbour : graph[node]) {
+            if (colours[neighbour] == -1) {
+                if (!checkBipartiteDFS(graph, colours, neighbour, !colour)) return false;
+            } else if (colours[neighbour] == colour) return false;
         }
-
         return true;
     }
     bool isBipartite(vector<vector<int>>& graph) {
@@ -28,7 +15,7 @@ public:
 
         for (int i = 0; i < V; i++) {
             if (colours[i] == -1) {
-                if (!checkBipartite(graph, colours, i)) return false;
+                if (!checkBipartiteDFS(graph, colours, i, 0)) return false;
             }
         }
 
