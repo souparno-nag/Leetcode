@@ -18,6 +18,7 @@ I submit solved leetcode probems here
 | [0199-binary-tree-right-side-view](https://github.com/souparno-nag/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/souparno-nag/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/souparno-nag/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/souparno-nag/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/souparno-nag/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/souparno-nag/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/souparno-nag/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
@@ -36,6 +37,7 @@ I submit solved leetcode probems here
 | [0210-course-schedule-ii](https://github.com/souparno-nag/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/souparno-nag/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/souparno-nag/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/souparno-nag/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/souparno-nag/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/souparno-nag/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/souparno-nag/Leetcode/tree/master/0802-find-eventual-safe-states) |
@@ -58,6 +60,7 @@ I submit solved leetcode probems here
 | [0199-binary-tree-right-side-view](https://github.com/souparno-nag/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/souparno-nag/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/souparno-nag/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/souparno-nag/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/souparno-nag/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/souparno-nag/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/souparno-nag/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
@@ -211,6 +214,7 @@ I submit solved leetcode probems here
 | [0051-n-queens](https://github.com/souparno-nag/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/souparno-nag/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/souparno-nag/Leetcode/tree/master/0090-subsets-ii) |
+| [0257-binary-tree-paths](https://github.com/souparno-nag/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/souparno-nag/Leetcode/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
@@ -243,6 +247,7 @@ I submit solved leetcode probems here
 | [0072-edit-distance](https://github.com/souparno-nag/Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/souparno-nag/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0224-basic-calculator](https://github.com/souparno-nag/Leetcode/tree/master/0224-basic-calculator) |
+| [0257-binary-tree-paths](https://github.com/souparno-nag/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/souparno-nag/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/souparno-nag/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/souparno-nag/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
