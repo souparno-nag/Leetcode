@@ -435,4 +435,5 @@ I submit solved leetcode probems here
 |  |
 | ------- |
 | [0620-not-boring-movies](https://github.com/souparno-nag/Leetcode/tree/master/0620-not-boring-movies) |
+| [1251-average-selling-price](https://github.com/souparno-nag/Leetcode/tree/master/1251-average-selling-price) |
 <!---LeetCode Topics End-->
