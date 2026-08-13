@@ -431,4 +431,8 @@ I submit solved leetcode probems here
 | ------- |
 | [0210-course-schedule-ii](https://github.com/souparno-nag/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/souparno-nag/Leetcode/tree/master/0802-find-eventual-safe-states) |
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/souparno-nag/Leetcode/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
