@@ -1,27 +1,23 @@
 class Solution {
+    int maxProfitHelper(int ind, int transactionNo, vector<vector<int>>& dp, vector<int>& prices, int n) {
+        if (ind == n || transactionNo == 0) return 0;
+        if (dp[ind][transactionNo] != -1e9) return dp[ind][transactionNo];
+        if (transactionNo % 2 == 0) {
+            return dp[ind][transactionNo] = max(
+                maxProfitHelper(ind+1, transactionNo-1, dp, prices, n) - prices[ind],
+                maxProfitHelper(ind+1, transactionNo, dp, prices, n)
+            );
+        } else {
+            return dp[ind][transactionNo] = max(
+                maxProfitHelper(ind+1, transactionNo-1, dp, prices, n) + prices[ind],
+                maxProfitHelper(ind+1, transactionNo, dp, prices, n)
+            );
+        }
+    }
 public:
     int maxProfit(vector<int>& prices) {
         int n = prices.size();
-        vector<vector<int>> dp(2, vector<int> (3, 0));
-        vector<vector<int>> temp(2, vector<int> (3, 0));
-        for (int ind = n-1; ind >= 0; ind--) {
-            for (int buy = 0; buy <= 1; buy++) {
-                for (int cap = 1; cap <= 2; cap++) {
-                    if (buy) {
-                        temp[buy][cap] = max(
-                            dp[0][cap] - prices[ind],
-                            dp[1][cap]
-                        );
-                    } else {
-                        temp[buy][cap] = max(
-                            dp[1][cap-1] + prices[ind],
-                            dp[0][cap]
-                        );
-                    }
-                }
-            }
-            dp = temp;
-        }
-        return dp[1][2];
+        vector<vector<int>> dp(n, vector<int> (5, -1e9));
+        return maxProfitHelper(0, 4, dp, prices, n);
     }
 };
