@@ -127,6 +127,7 @@ I submit solved leetcode probems here
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/souparno-nag/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0160-intersection-of-two-linked-lists](https://github.com/souparno-nag/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0387-first-unique-character-in-a-string](https://github.com/souparno-nag/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/souparno-nag/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/souparno-nag/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -394,6 +395,7 @@ I submit solved leetcode probems here
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/souparno-nag/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/souparno-nag/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/souparno-nag/Leetcode/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/souparno-nag/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/souparno-nag/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/souparno-nag/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/souparno-nag/Leetcode/tree/master/0328-odd-even-linked-list) |
@@ -406,6 +408,7 @@ I submit solved leetcode probems here
 | [0042-trapping-rain-water](https://github.com/souparno-nag/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/souparno-nag/Leetcode/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/souparno-nag/Leetcode/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/souparno-nag/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/souparno-nag/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/souparno-nag/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/souparno-nag/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
