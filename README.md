@@ -179,6 +179,7 @@ I submit solved leetcode probems here
 | [0063-unique-paths-ii](https://github.com/souparno-nag/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/souparno-nag/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/souparno-nag/Leetcode/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/souparno-nag/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/souparno-nag/Leetcode/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/souparno-nag/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/souparno-nag/Leetcode/tree/master/0120-triangle) |
@@ -292,6 +293,7 @@ I submit solved leetcode probems here
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/souparno-nag/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/souparno-nag/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/souparno-nag/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/souparno-nag/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/souparno-nag/Leetcode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/souparno-nag/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -451,6 +453,7 @@ I submit solved leetcode probems here
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/souparno-nag/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/souparno-nag/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/souparno-nag/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/souparno-nag/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/souparno-nag/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
@@ -479,4 +482,8 @@ I submit solved leetcode probems here
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/souparno-nag/Leetcode/tree/master/0141-linked-list-cycle) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/souparno-nag/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
