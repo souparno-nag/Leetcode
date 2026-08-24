@@ -308,6 +308,7 @@ I submit solved leetcode probems here
 | [0503-next-greater-element-ii](https://github.com/souparno-nag/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/souparno-nag/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/souparno-nag/Leetcode/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/souparno-nag/Leetcode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/souparno-nag/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/souparno-nag/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2104-sum-of-subarray-ranges](https://github.com/souparno-nag/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
@@ -371,6 +372,7 @@ I submit solved leetcode probems here
 | [0155-min-stack](https://github.com/souparno-nag/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/souparno-nag/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/souparno-nag/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/souparno-nag/Leetcode/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -460,6 +462,7 @@ I submit solved leetcode probems here
 | [0084-largest-rectangle-in-histogram](https://github.com/souparno-nag/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/souparno-nag/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/souparno-nag/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/souparno-nag/Leetcode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/souparno-nag/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/souparno-nag/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Union-Find
@@ -495,4 +498,8 @@ I submit solved leetcode probems here
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/souparno-nag/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/souparno-nag/Leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
