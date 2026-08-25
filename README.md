@@ -139,6 +139,7 @@ I submit solved leetcode probems here
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/souparno-nag/Leetcode/tree/master/0056-merge-intervals) |
 | [0977-squares-of-a-sorted-array](https://github.com/souparno-nag/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/souparno-nag/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2974-minimum-number-game](https://github.com/souparno-nag/Leetcode/tree/master/2974-minimum-number-game) |
@@ -178,6 +179,7 @@ I submit solved leetcode probems here
 | [0046-permutations](https://github.com/souparno-nag/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/souparno-nag/Leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/souparno-nag/Leetcode/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/souparno-nag/Leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/souparno-nag/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/souparno-nag/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/souparno-nag/Leetcode/tree/master/0078-subsets) |
@@ -511,4 +513,8 @@ I submit solved leetcode probems here
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/souparno-nag/Leetcode/tree/master/0146-lru-cache) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/souparno-nag/Leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
