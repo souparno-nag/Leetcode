@@ -133,6 +133,7 @@ I submit solved leetcode probems here
 | [0496-next-greater-element-i](https://github.com/souparno-nag/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/souparno-nag/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/souparno-nag/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/souparno-nag/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/souparno-nag/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Sorting
 |  |
@@ -226,6 +227,7 @@ I submit solved leetcode probems here
 | [3232-find-if-digit-game-can-be-won](https://github.com/souparno-nag/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3379-transformed-array](https://github.com/souparno-nag/Leetcode/tree/master/3379-transformed-array) |
 | [3634-minimum-removals-to-balance-array](https://github.com/souparno-nag/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/souparno-nag/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/souparno-nag/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Backtracking
 |  |
