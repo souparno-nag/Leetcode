@@ -128,6 +128,7 @@ I submit solved leetcode probems here
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/souparno-nag/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/souparno-nag/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/souparno-nag/Leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/souparno-nag/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0387-first-unique-character-in-a-string](https://github.com/souparno-nag/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/souparno-nag/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -371,6 +372,7 @@ I submit solved leetcode probems here
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/souparno-nag/Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/souparno-nag/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/souparno-nag/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/souparno-nag/Leetcode/tree/master/0232-implement-queue-using-stacks) |
@@ -411,6 +413,7 @@ I submit solved leetcode probems here
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/souparno-nag/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/souparno-nag/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/souparno-nag/Leetcode/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/souparno-nag/Leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/souparno-nag/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/souparno-nag/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/souparno-nag/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -504,4 +507,8 @@ I submit solved leetcode probems here
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/souparno-nag/Leetcode/tree/master/0901-online-stock-span) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/souparno-nag/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
