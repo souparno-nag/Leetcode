@@ -131,6 +131,7 @@ I submit solved leetcode probems here
 | [0141-linked-list-cycle](https://github.com/souparno-nag/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/souparno-nag/Leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/souparno-nag/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0380-insert-delete-getrandom-o1](https://github.com/souparno-nag/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/souparno-nag/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/souparno-nag/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/souparno-nag/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -156,6 +157,7 @@ I submit solved leetcode probems here
 | [0150-evaluate-reverse-polish-notation](https://github.com/souparno-nag/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/souparno-nag/Leetcode/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/souparno-nag/Leetcode/tree/master/0258-add-digits) |
+| [0380-insert-delete-getrandom-o1](https://github.com/souparno-nag/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/souparno-nag/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/souparno-nag/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/souparno-nag/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -202,6 +204,7 @@ I submit solved leetcode probems here
 | [0300-longest-increasing-subsequence](https://github.com/souparno-nag/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/souparno-nag/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/souparno-nag/Leetcode/tree/master/0322-coin-change) |
+| [0380-insert-delete-getrandom-o1](https://github.com/souparno-nag/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/souparno-nag/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/souparno-nag/Leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/souparno-nag/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -382,6 +385,7 @@ I submit solved leetcode probems here
 | [0155-min-stack](https://github.com/souparno-nag/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/souparno-nag/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/souparno-nag/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0380-insert-delete-getrandom-o1](https://github.com/souparno-nag/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0901-online-stock-span](https://github.com/souparno-nag/Leetcode/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
@@ -521,4 +525,8 @@ I submit solved leetcode probems here
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/souparno-nag/Leetcode/tree/master/0056-merge-intervals) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/souparno-nag/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
