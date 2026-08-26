@@ -272,6 +272,7 @@ I submit solved leetcode probems here
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/souparno-nag/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/souparno-nag/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3634-minimum-removals-to-balance-array](https://github.com/souparno-nag/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## String
 |  |
@@ -300,6 +301,7 @@ I submit solved leetcode probems here
 | [1832-check-if-the-sentence-is-pangram](https://github.com/souparno-nag/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/souparno-nag/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/souparno-nag/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/souparno-nag/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2942-find-words-containing-character](https://github.com/souparno-nag/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/souparno-nag/Leetcode/tree/master/3019-number-of-changing-keys) |
 ## Stack
