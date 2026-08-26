@@ -127,6 +127,7 @@ I submit solved leetcode probems here
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/souparno-nag/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/souparno-nag/Leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/souparno-nag/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/souparno-nag/Leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/souparno-nag/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -139,6 +140,7 @@ I submit solved leetcode probems here
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/souparno-nag/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/souparno-nag/Leetcode/tree/master/0056-merge-intervals) |
 | [0977-squares-of-a-sorted-array](https://github.com/souparno-nag/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/souparno-nag/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -177,6 +179,7 @@ I submit solved leetcode probems here
 | [0040-combination-sum-ii](https://github.com/souparno-nag/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/souparno-nag/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/souparno-nag/Leetcode/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/souparno-nag/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/souparno-nag/Leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/souparno-nag/Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/souparno-nag/Leetcode/tree/master/0056-merge-intervals) |
@@ -275,6 +278,7 @@ I submit solved leetcode probems here
 | [0022-generate-parentheses](https://github.com/souparno-nag/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/souparno-nag/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/souparno-nag/Leetcode/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/souparno-nag/Leetcode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/souparno-nag/Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/souparno-nag/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0224-basic-calculator](https://github.com/souparno-nag/Leetcode/tree/master/0224-basic-calculator) |
