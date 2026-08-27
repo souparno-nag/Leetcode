@@ -138,6 +138,7 @@ I submit solved leetcode probems here
 | [1832-check-if-the-sentence-is-pangram](https://github.com/souparno-nag/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/souparno-nag/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/souparno-nag/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/souparno-nag/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -304,6 +305,7 @@ I submit solved leetcode probems here
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/souparno-nag/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2942-find-words-containing-character](https://github.com/souparno-nag/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/souparno-nag/Leetcode/tree/master/3019-number-of-changing-keys) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/souparno-nag/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Stack
 |  |
 | ------- |
@@ -342,6 +344,7 @@ I submit solved leetcode probems here
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/souparno-nag/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/souparno-nag/Leetcode/tree/master/0860-lemonade-change) |
 | [1382-balance-a-binary-search-tree](https://github.com/souparno-nag/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/souparno-nag/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -455,6 +458,7 @@ I submit solved leetcode probems here
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/souparno-nag/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/souparno-nag/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -531,4 +535,8 @@ I submit solved leetcode probems here
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/souparno-nag/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Enumeration
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/souparno-nag/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
