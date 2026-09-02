@@ -169,6 +169,7 @@ I submit solved leetcode probems here
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/souparno-nag/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/souparno-nag/Leetcode/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/souparno-nag/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3875-construct-uniform-parity-array-i](https://github.com/souparno-nag/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Memoization
 |  |
 | ------- |
@@ -239,6 +240,7 @@ I submit solved leetcode probems here
 | [3634-minimum-removals-to-balance-array](https://github.com/souparno-nag/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/souparno-nag/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/souparno-nag/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/souparno-nag/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Backtracking
 |  |
 | ------- |
