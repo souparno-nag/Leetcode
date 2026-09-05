@@ -126,6 +126,7 @@ I submit solved leetcode probems here
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/souparno-nag/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/souparno-nag/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/souparno-nag/Leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/souparno-nag/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -153,6 +154,7 @@ I submit solved leetcode probems here
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/souparno-nag/Leetcode/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/souparno-nag/Leetcode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/souparno-nag/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/souparno-nag/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/souparno-nag/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -283,6 +285,7 @@ I submit solved leetcode probems here
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/souparno-nag/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/souparno-nag/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/souparno-nag/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/souparno-nag/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/souparno-nag/Leetcode/tree/master/0032-longest-valid-parentheses) |
