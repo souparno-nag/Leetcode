@@ -242,6 +242,7 @@ I submit solved leetcode probems here
 | [3719-longest-balanced-subarray-i](https://github.com/souparno-nag/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/souparno-nag/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/souparno-nag/Leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/souparno-nag/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -371,6 +372,7 @@ I submit solved leetcode probems here
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/souparno-nag/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3903-smallest-stable-index-i](https://github.com/souparno-nag/Leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/souparno-nag/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Combinatorics
 |  |
 | ------- |
