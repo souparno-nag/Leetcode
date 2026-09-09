@@ -4,7 +4,7 @@ public:
     int distinctSubseqII(string s) {
         int n = s.length();
         vector<int> last(26, 0);
-        vector<long> dp(n+1, 0);
+        vector<uint32_t> dp(n+1, 0);
         dp[0] = 0;
         for (int i = 1; i <= n; i++) {
             int j = last[s[i-1]-'a'];
