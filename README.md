@@ -24,6 +24,7 @@ I submit solved leetcode probems here
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/souparno-nag/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/souparno-nag/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/souparno-nag/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/souparno-nag/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/souparno-nag/Leetcode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 ## Depth-First Search
 |  |
@@ -48,6 +49,7 @@ I submit solved leetcode probems here
 | [1020-number-of-enclaves](https://github.com/souparno-nag/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1382-balance-a-binary-search-tree](https://github.com/souparno-nag/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/souparno-nag/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/souparno-nag/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/souparno-nag/Leetcode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 ## Binary Tree
 |  |
@@ -70,6 +72,7 @@ I submit solved leetcode probems here
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/souparno-nag/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/souparno-nag/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/souparno-nag/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/souparno-nag/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Dynamic Programming
 |  |
 | ------- |
