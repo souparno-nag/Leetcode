@@ -10,14 +10,13 @@
  * };
  */
 class Solution {
-    vector<int> subTree(TreeNode* node, int& count) {
-        if (node == NULL) return {0, 0};
-        vector<int> leftSubTree = subTree(node->left, count);
-        vector<int> rightSubTree = subTree(node->right, count);
-        int sum = leftSubTree[0] + rightSubTree[0] + node->val;
-        int nodeCount = leftSubTree[1] + rightSubTree[1] + 1;
-        int avg = sum/nodeCount;
-        if (avg == node->val) count++;
+    pair<int, int> subTree(TreeNode* node, int& count) {
+        if (node == nullptr) return {0, 0};
+        auto [leftSum, leftCount] = subTree(node->left, count);
+        auto [rightSum, rightCount] = subTree(node->right, count);
+        int sum = leftSum + rightSum + node->val;
+        int nodeCount = leftCount + rightCount + 1;
+        if (sum/nodeCount == node->val) count++;
         return {sum, nodeCount};
     }
 public:
