@@ -237,6 +237,7 @@ I submit solved leetcode probems here
 | [0977-squares-of-a-sorted-array](https://github.com/souparno-nag/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1020-number-of-enclaves](https://github.com/souparno-nag/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1095-find-in-mountain-array](https://github.com/souparno-nag/Leetcode/tree/master/1095-find-in-mountain-array) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/souparno-nag/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/souparno-nag/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1463-cherry-pickup-ii](https://github.com/souparno-nag/Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1550-three-consecutive-odds](https://github.com/souparno-nag/Leetcode/tree/master/1550-three-consecutive-odds) |
@@ -388,6 +389,7 @@ I submit solved leetcode probems here
 | [0540-single-element-in-a-sorted-array](https://github.com/souparno-nag/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/souparno-nag/Leetcode/tree/master/0704-binary-search) |
 | [1095-find-in-mountain-array](https://github.com/souparno-nag/Leetcode/tree/master/1095-find-in-mountain-array) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/souparno-nag/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1382-balance-a-binary-search-tree](https://github.com/souparno-nag/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Segment Tree
 |  |
