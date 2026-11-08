@@ -232,6 +232,7 @@ I submit solved leetcode probems here
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/souparno-nag/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0735-asteroid-collision](https://github.com/souparno-nag/Leetcode/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/souparno-nag/Leetcode/tree/master/0860-lemonade-change) |
+| [0875-koko-eating-bananas](https://github.com/souparno-nag/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/souparno-nag/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/souparno-nag/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/souparno-nag/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -388,6 +389,7 @@ I submit solved leetcode probems here
 | [0300-longest-increasing-subsequence](https://github.com/souparno-nag/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/souparno-nag/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/souparno-nag/Leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/souparno-nag/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1095-find-in-mountain-array](https://github.com/souparno-nag/Leetcode/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/souparno-nag/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1382-balance-a-binary-search-tree](https://github.com/souparno-nag/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
