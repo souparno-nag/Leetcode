@@ -241,6 +241,7 @@ I submit solved leetcode probems here
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/souparno-nag/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/souparno-nag/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1463-cherry-pickup-ii](https://github.com/souparno-nag/Leetcode/tree/master/1463-cherry-pickup-ii) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/souparno-nag/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1550-three-consecutive-odds](https://github.com/souparno-nag/Leetcode/tree/master/1550-three-consecutive-odds) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/souparno-nag/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/souparno-nag/Leetcode/tree/master/1672-richest-customer-wealth) |
@@ -393,6 +394,7 @@ I submit solved leetcode probems here
 | [1095-find-in-mountain-array](https://github.com/souparno-nag/Leetcode/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/souparno-nag/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1382-balance-a-binary-search-tree](https://github.com/souparno-nag/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/souparno-nag/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Segment Tree
 |  |
 | ------- |
